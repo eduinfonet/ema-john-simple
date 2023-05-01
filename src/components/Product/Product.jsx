@@ -27,4 +27,3 @@ const Product = (props) => {
 };
 
 export default Product;
-7.14;

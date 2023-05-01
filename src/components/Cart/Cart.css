@@ -1,0 +1,10 @@
+.cart {
+  background-color: #7990be;
+  padding-left: 15px;
+  padding-right: 5;
+  color: #f0ffff;
+  position: fixed;
+  top: 80px;
+  right: 0;
+  min-width: 255px;
+}

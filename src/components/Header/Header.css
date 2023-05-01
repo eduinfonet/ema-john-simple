@@ -6,6 +6,9 @@
   background-color: #1c2b35;
   padding-left: 100px;
   padding-right: 90px;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
 }
 
 nav.header a {
