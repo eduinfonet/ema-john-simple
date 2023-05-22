@@ -8,3 +8,15 @@
   right: 0;
   min-width: 255px;
 }
+
+.btn-clear-cart {
+  width: 90%;
+  height: 50px;
+  background-color: #ff3030;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px auto;
+  color: #f0ffff;
+  font-size: 20px;
+}
